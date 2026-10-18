@@ -29,3 +29,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - No one should "own" discoveries. They're just there to be found and shared with everyone.
 - Opinionated is better than multiple conflicting opinions, even if it's not your own opinion
 - Everything that can be linted, should be linted
+- Agent behaviour, like writing style, should be a live document that learns from every correction
