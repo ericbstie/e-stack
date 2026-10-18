@@ -30,3 +30,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Opinionated is better than multiple conflicting opinions, even if it's not your own opinion
 - Everything that can be linted, should be linted
 - If it works it works is not an acceptable standard
+- Agents should never make the same mistake twice: learn from mistakes and never repeat it
