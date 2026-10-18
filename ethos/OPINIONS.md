@@ -37,3 +37,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Mac over Windows for development: better hardware and a Unix environment for CLI work
 - Chat is not the final form of agent UI: show systems as live visual canvases, maybe even VR
 - Unlimited AI capacity doesn't solve the real bottleneck: knowing what to build
+- Understanding from first principles beats reciting a formula
