@@ -34,3 +34,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Agents should never make the same mistake twice: learn from mistakes and never repeat it
 - oxlint + oxfmt over ESLint + Prettier
 - Tailwind is better than plain CSS, and it's a hill worth dying on
+- Mac over Windows for development: better hardware and a Unix environment for CLI work
