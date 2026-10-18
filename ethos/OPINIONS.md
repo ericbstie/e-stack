@@ -38,3 +38,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Chat is not the final form of agent UI: show systems as live visual canvases, maybe even VR
 - Unlimited AI capacity doesn't solve the real bottleneck: knowing what to build
 - Understanding from first principles beats reciting a formula
+- Validating AI-written code is a management problem: good systems let the least skilled contributor add value without breaking anything, and verify their work without micromanagement
