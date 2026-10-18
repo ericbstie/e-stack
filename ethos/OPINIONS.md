@@ -36,3 +36,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Tailwind is better than plain CSS, and it's a hill worth dying on
 - Mac over Windows for development: better hardware and a Unix environment for CLI work
 - Chat is not the final form of agent UI: show systems as live visual canvases, maybe even VR
+- Unlimited AI capacity doesn't solve the real bottleneck: knowing what to build
