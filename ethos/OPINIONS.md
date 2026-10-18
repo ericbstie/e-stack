@@ -33,3 +33,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - If it works it works is not an acceptable standard
 - Agents should never make the same mistake twice: learn from mistakes and never repeat it
 - oxlint + oxfmt over ESLint + Prettier
+- Tailwind is better than plain CSS, and it's a hill worth dying on
