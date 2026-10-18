@@ -29,3 +29,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - No one should "own" discoveries. They're just there to be found and shared with everyone.
 - Opinionated is better than multiple conflicting opinions, even if it's not your own opinion
 - Everything that can be linted, should be linted
+- Secrets management has to grow with the org: Vault, AWS Secrets Manager, OpenBao or Kubeseal for enterprises; fnox, 1Password or Bitwarden for smaller teams; never git, pastebin or Slack
