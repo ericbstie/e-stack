@@ -39,3 +39,4 @@ Secondly, opinions are evidence blocks that can be used to logically deduct what
 - Unlimited AI capacity doesn't solve the real bottleneck: knowing what to build
 - Understanding from first principles beats reciting a formula
 - Validating AI-written code is a management problem: good systems let the least skilled contributor add value without breaking anything, and verify their work without micromanagement
+- The "perfect" solution takes pragmatic concerns into account
