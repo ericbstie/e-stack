@@ -2,10 +2,6 @@
 
 Eric Bieszczad-Stie's LLM skills.
 
-```sh
-npx skills add ericbstie/estack
-```
-
 - `ethos` - persistent, cumulative opinions & principles
 - `skills/estack` - LLM skills in-use
 - `skills/experimental` - astral dream realm -> **in-practice testing** -> skills
