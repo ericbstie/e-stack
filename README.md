@@ -1,4 +1,4 @@
-# estack
+# e-stack
 
 Eric Bieszczad-Stie's LLM skills.
 
